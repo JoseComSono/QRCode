@@ -1,0 +1,2 @@
+# QRCode
+Leitor de QRCode
